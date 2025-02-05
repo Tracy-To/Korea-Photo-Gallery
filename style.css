@@ -18,7 +18,10 @@ body {
   color: white;
 
   /* Background */
-  background: #8e94f2 url('') no-repeat 100%;
+  background-color: #8e94f2;
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .preview-container {
